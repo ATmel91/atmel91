@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, how are you?
 
-<!--
-**ATmel91/atmel91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ATmel91, I enjoy programming, listening to music really loud, and a lot of sleeping.
 
-Here are some ideas to get you started:
+_Things I am good at:_
+- Python
+- NodeJS ~ discord.js
+- Schematics & PCBs
+- Minimalistic vector art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Things I am still learning:_
+- C / C# / C++
+- HTML / CSS / PHP
+- Social skills
+- Adobe AE
+
+
+_Media:_
+- Discord: ATmel91#9104
