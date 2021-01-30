@@ -4,15 +4,14 @@ My name is ATmel91, I enjoy programming, listening to music really loud, and a l
 
 _Things I am good at:_
 - Python
+- C# (WIP)
 - NodeJS ~ discord.js
 - Schematics & PCBs
 - Minimalistic vector art
 
 _Things I am still learning:_
-- C / C# / C++
+- C / ~~C#~~ / C++
 - HTML / CSS / PHP
-- Social skills
-- Adobe AE
 
 
 _Media:_
